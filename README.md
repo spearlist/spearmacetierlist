@@ -1,1 +1,1 @@
-# spearmacetierlist
+spearmacetiers.com
